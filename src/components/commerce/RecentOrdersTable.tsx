@@ -32,7 +32,7 @@ const orders: Order[] = [
   {
     id: "#10427",
     customer: "Daniel Okafor",
-    email: "danielo@gmail.com",
+    email: "danielo@example.com",
     items: 1,
     total: "$48.00",
     date: "Apr 11, 9:18 AM",
